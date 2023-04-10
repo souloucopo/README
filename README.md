@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/souloucopo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasm12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasm12&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souloucopo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souloucopo&layout=compact&langs_count=3&theme=dracula&hide=Rich%20Text%20Format" />
   </div>
   
  ##
@@ -82,5 +82,5 @@
      
 <div>
   <h3 align="left">Articles and Contact</h3>
-  <a href="https://www.linkedin.com/in/lucas-marques1204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/rodrigo-eduardo-7694ab195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
